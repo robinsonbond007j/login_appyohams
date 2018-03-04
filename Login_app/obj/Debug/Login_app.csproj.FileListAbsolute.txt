@@ -1,0 +1,36 @@
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\Login_app\Login_app\bin\Debug\Login_app.dll
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\Login_app\Login_app\bin\Debug\Login_app.pdb
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\Login_app\Login_app\bin\Debug\Login_app.Login_app.apk
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\Login_app\Login_app\bin\Debug\Login_app.Login_app-Signed.apk
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\Login_app\Login_app\obj\Debug\Login_app.csproj.CoreCompileInputs.cache
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\Login_app\Login_app\obj\Debug\Login_app.dll
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\Login_app\Login_app\obj\Debug\Login_app.pdb
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\Login_app\Login_app\obj\Debug\android\bin\Login_app.Login_app.apk
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\Login_app\Login_app\obj\Debug\res\layout\main.xml
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\Login_app\Login_app\obj\Debug\res\values\strings.xml
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\Login_app\Login_app\obj\Debug\R.cs.flag
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\Login_app\Login_app\obj\Debug\uploadflags.txt
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\Login_app\Login_app\obj\Debug\Login_app.csprojResolveAssemblyReference.cache
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\Login_app\Login_app\bin\Debug\Login_app.dll.mdb
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\Login_app\Login_app\obj\Debug\android\assets\Login_app.dll.mdb
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\Login_app.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb

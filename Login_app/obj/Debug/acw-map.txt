@@ -1,0 +1,4 @@
+Login_app.MainActivity, Login_app;md5727df83b0af54f6a487a2aacf3299127.MainActivity
+Login_app.MainActivity, Login_app, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5727df83b0af54f6a487a2aacf3299127.MainActivity
+Login_app.MainActivity;md5727df83b0af54f6a487a2aacf3299127.MainActivity
+login_app.MainActivity;md5727df83b0af54f6a487a2aacf3299127.MainActivity
